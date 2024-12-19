@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "abeb5d3cc06342cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0b40d52134338b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9d734ccaa6327b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "0e474f72be3124b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "emr/cdh/hue-基础/介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "介绍"
+            }
+          },
+          {
+            "id": "cc3b37a86fd176a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "emr/assets/docs/emr-arch-V2-ka.drawio.png"
+              },
+              "icon": "lucide-image",
+              "title": "emr-arch-V2-ka.drawio"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be5c31982c8113ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "769c4483f72758d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760b8ff7ecb171c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b51c3b3dda239009",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c4e9f89ff5203cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0178ae65b534b467",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e650f558a3a937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf1f519688162bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "test 的反向链接列表"
+            }
+          },
+          {
+            "id": "c76e8734b352d37a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "test 的出链列表"
+            }
+          },
+          {
+            "id": "dbbc9db2223740c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "94abaed3e1d930ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "emr/docs.md"
+              },
+              "icon": "lucide-list",
+              "title": "docs 的大纲"
+            }
+          },
+          {
+            "id": "4cc2610a712c1233",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "0e474f72be3124b8",
+  "lastOpenFiles": [
+    "emr/cdh/hue-基础/assets/介绍/file-20241219172128996.png",
+    "emr/cdh/hue-基础/assets/介绍/hue_overview_left_region.png",
+    "emr/cdh/hue-基础/assets/介绍/file-20241219172038479.png",
+    "emr/cdh/hue-基础/assets/介绍",
+    "emr/cdh/hue-基础/assets",
+    "emr/cdh/azkaban-基础/介绍.md",
+    "emr/cdh/azkaban-基础/教程-编译.md",
+    "emr/cdh/hue-基础/介绍.md",
+    "emr/cdh/azkaban-基础/assets/未命名.md",
+    "emr/cdh/azkaban-基础/assets/介绍",
+    "emr/cdh/azkaban-基础/assets",
+    "emr/cdh/azkaban-基础/assets/介绍/Pasted image 20241219171537.png",
+    "assets/介绍",
+    "assets",
+    "emr/assets/docs/emr-arch-V2-ka.drawio.png",
+    "emr/docs.md",
+    "emr/assets/docs/file-20241219121250971.png",
+    "emr/assets/docs/file-20241219121205444.png",
+    "2024-12-19.md",
+    "未命名.canvas",
+    "emr/assets/docs/file-20241218183929397.png",
+    "emr/assets/docs/file-20241218183928384.png",
+    "emr/assets/docs/file-20241218183913088.png",
+    "emr/assets/docs/file-20241218183858464.png",
+    "conflict-files-obsidian-git.md",
+    "emr/assets/docs",
+    "emr/assets",
+    "emr",
+    "emr_副本/docs.md",
+    "emr_副本/assets/docs",
+    "test.md"
+  ]
+}
